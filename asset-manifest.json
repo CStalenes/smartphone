@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/smartphone/static/css/main.9c10354b.css",
+    "main.js": "/smartphone/static/js/main.aed4b7fd.js",
+    "static/js/787.85675ce3.chunk.js": "/smartphone/static/js/787.85675ce3.chunk.js",
+    "static/media/phone_banner.jpg": "/smartphone/static/media/phone_banner.f4f8a159c1fc26cbcdaf.jpg",
+    "static/media/montez-all-400-normal.woff": "/smartphone/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
+    "static/media/montez-latin-400-normal.woff2": "/smartphone/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
+    "static/media/product7.jpg": "/smartphone/static/media/product7.c0fd2d90bff9e1ef0062.jpg",
+    "static/media/product1.jpg": "/smartphone/static/media/product1.64ec9e48af142ea9ccba.jpg",
+    "static/media/product5.jpg": "/smartphone/static/media/product5.3a7009a247db272f106f.jpg",
+    "static/media/product10.jpg": "/smartphone/static/media/product10.d0bbcb4122709b39264d.jpg",
+    "static/media/product6.jpg": "/smartphone/static/media/product6.96083e3509041b8d3bcc.jpg",
+    "static/media/product2.jpg": "/smartphone/static/media/product2.350321a2d59d57a3e942.jpg",
+    "static/media/product8.jpg": "/smartphone/static/media/product8.8c739d5ea1d26a66fe26.jpg",
+    "static/media/product4.jpg": "/smartphone/static/media/product4.680ee03c19af28686c53.jpg",
+    "static/media/product3.jpg": "/smartphone/static/media/product3.10fd71cd0f401e01433f.jpg",
+    "static/media/product9.jpg": "/smartphone/static/media/product9.1193efc04fdbab8aa460.jpg",
+    "index.html": "/smartphone/index.html",
+    "main.9c10354b.css.map": "/smartphone/static/css/main.9c10354b.css.map",
+    "main.aed4b7fd.js.map": "/smartphone/static/js/main.aed4b7fd.js.map",
+    "787.85675ce3.chunk.js.map": "/smartphone/static/js/787.85675ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c10354b.css",
+    "static/js/main.aed4b7fd.js"
+  ]
+}
